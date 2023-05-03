@@ -21,7 +21,6 @@
                         </div>
                     </div>
 
-
                     <div style="margin-top: 400px;color: white;">
                         <div class="col-md-6 text-center" style="margin: 25px;">
                             <h5 class="text-light float-start fw-bold align-items-center">Параметры</h5>
